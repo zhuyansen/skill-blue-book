@@ -13,7 +13,7 @@
 [![AgentSkillsHub](https://img.shields.io/badge/Powered%20by-AgentSkillsHub-10b981?style=flat-square)](https://agentskillshub.top)
 [![Follow](https://img.shields.io/twitter/follow/GoSailGlobal?style=flat-square&label=Follow%20%40GoSailGlobal)](https://x.com/GoSailGlobal)
 
-**[🌐 网站](https://agentskillshub.top)** · **[📖 第 3 章 · 市场全景](part1-foundation/ch03-market-landscape.md)** · **[🐦 作者 X](https://x.com/GoSailGlobal)** · **[🔍 数据可复现](data/)**
+**[🌐 网站](https://agentskillshub.top)** · **[📖 第 3 章 · 市场全景](part1-foundation/ch03-market-landscape.md)** · **[📖 第 4 章 · 宝玉四条哲学](part2-practice/ch04-baoyu-four-principles.md)** · **[🐦 作者 X](https://x.com/GoSailGlobal)** · **[🔍 数据可复现](data/)**
 
 </div>
 
@@ -54,11 +54,11 @@
 
 ### Part 2 · 实战：怎么写好 Skill
 
-| # | 章节 | 状态 |
-|--:|:----|:----:|
-| 4 | 站在 Agent 角度设计 Skill（宝玉四条哲学） | 🔲 |
-| 5 | 迭代优化的闭环：从踩坑到飞轮 | 🔲 |
-| 6 | 9 种 Skill 类型 × 4 级分享路径 | 🔲 |
+| # | 章节 | 状态 | 字数 |
+|--:|:----|:----:|----:|
+| 4 | [**站在 Agent 角度设计 Skill（宝玉四条哲学）**](part2-practice/ch04-baoyu-four-principles.md) ⭐ | ✅ **完稿** | **7,000** |
+| 5 | 迭代优化的闭环：从踩坑到飞轮 | 🔲 | - |
+| 6 | 9 种 Skill 类型 × 4 级分享路径 | 🔲 | - |
 
 ### Part 3 · 生态：Skill 正在吞噬一切
 

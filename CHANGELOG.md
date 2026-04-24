@@ -1,5 +1,29 @@
 # 修订记录
 
+## 2026-04-24 · v0.2
+
+### 新增
+- **第 4 章 · 站在 Agent 角度设计 Skill（宝玉四条哲学）**（~7,000 字 + 5 张数据表 + 1 张 matplotlib 图）
+  - 三个活案例对比：`emilkowalski/skill`（禅意）× `Leonxlnx/taste-skill`（法条）× `cclank/news-aggregator-skill`（复盘）
+  - Hub Top 500 数据验证：Agent 视角 +7.7 分 · 脚本优先 +7.7 分 · 自我迭代 +8.6 分 · 原子化 +15 分
+  - 独家发现：README 质量 sweet spot 是 10–20KB（<2KB 降到 36 分，>40KB 降到 45 分）
+- **第 1 章公众号版** `social/ch01-wechat.md`（~3,000 字，已于 2026-04-24 发布）
+- **3 张 Ch1 视觉素材**（gpt-image-2 生成）：`social/ch01-fig1/2/3-*.png`
+  - Mahesh vs Barry 对比卡（hook）
+  - Barry 65% vs 35% 经验饼图
+  - 5 种扩展机制对比（Tool/MCP/RAG/System Prompt/Skill）
+- **可复现脚本**：
+  - `data/ch04_atomicity.py` — Top 500 原子化分析
+  - `data/ch04_fig1_size_quality.py` — 图表生成器
+  - `data/ch04_top500_snapshot.json` — 228KB 数据快照
+  - `scripts/gen_ch01_figs.py` — 图片生成器（apimart gpt-image-2 API）
+
+### 发布动作
+- 公众号长文《今天的 LLM 都是 MIT 博士，但 Agent 需要的是 30 年老会计》(2026-04-24)
+- X 短推 · 基于 Ch4 的 README 大小 vs 质量数据（2026-04-24）
+
+---
+
 ## 2026-04-22 · v0.1
 
 ### 新增
