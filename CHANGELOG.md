@@ -1,5 +1,27 @@
 # 修订记录
 
+## 2026-04-24 · v0.3
+
+### 新增
+- **第 5 章 · 迭代优化的闭环：从踩坑到飞轮**（~6,500 字 + 1 张生存曲线图）
+  - 三个活案例对比：`NousResearch/autoreason`（3 路锦标赛 + Borda 投票）× `LufzzLiz/news-aggregator-skill`（MISTAKES.md 工程复盘）× Hub 原创生存数据
+  - 开篇借 Autoreason 论文揭示迭代的 3 个隐藏 bug：prompt bias · scope creep · lack of restraint
+  - **Hub 原创发现**（cohort = 2025-04 到 2025-10 创建的 1000 个 stars ≥ 20 skill）：
+    - 持续 commit 的 skill 58.8% 还在涨 stars
+    - 冷冻 90+ 天的 skill 只有 3.8% 在涨 stars（**15× 差距**）
+    - 生存率从 6 月 80.6% 降到 10 月 69.3%（**第 10 个月是死亡拐点**）
+    - Top 10% stars 的 92% 仍在活，bottom 50% 的 74.5% 仍在活
+  - 提出 3 种迭代机制的递进路径：MISTAKES.md → 规律 commit → Autoreason（仅 Top 1% skill 值得投入算力）
+- 可复现分析脚本 `data/ch05_survival_analysis.py` + 1000 skill 快照 `data/ch05_cohort_snapshot.json`
+- 生存曲线图生成器 `data/ch05_fig1_survival_curve.py` → `data/ch05-fig1-survival-curve.png`
+
+### 第 4 章传播数据（2026-04-24）
+- X 短推（"原子化不是最小化"）34 分钟互动率 **2.75%**（Ch1 thread 的 3.3×）
+- 宝玉 + LufzzLiz（cclank）均 organic like → 第 4 章论点获得 namesake 认可
+- @ 点名的 Emil / Leon / LufzzLiz 三位作者均收到 notification
+
+---
+
 ## 2026-04-24 · v0.2
 
 ### 新增
