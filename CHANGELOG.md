@@ -1,5 +1,28 @@
 # 修订记录
 
+## 2026-04-26 · v0.4
+
+### 新增
+- **第 9 章 · Distribution：商业化三角少的那条边**（~7,000 字 + 三角+第四条边对比图）
+  - 承接南川（lovstudio）《商业化三角不可能定理》
+  - 三个活案例：`emilkowalski/skill`（Service-on-Open）× `vercel-labs/skills`（Hosted Runtime）× `steipete/*`（Distribution Channel 复利）
+  - **Hub 全量数据揭示**：
+    - 65,729 总 skills · **53.8% 是 0 star**（35,396 个，distribution 失败）
+    - Top 1000 skills 中位年龄 **320 天**（平均 513 天） · 90 天破百只占 22%
+    - **9.6% 多产作者占 24.5% Top 1000 slots**（distribution 复利效应）
+    - Top 15 多产作者无一例外是大公司/官方/已成名 KOL
+  - **核心论点**："南川三角对 10% 已有用户的作者成立。剩下 90% 卡在 distribution 这条第四条边"
+  - 自我反省 · Hub 自身 distribution 也很弱，月独立访问 5K，需要 6 个月做到 50K
+- 可复现脚本 `data/ch09_distribution_analysis.py` + 1000 skill 快照 + 作者分布快照
+- 三角+第四条边对比图 `data/ch09-fig1-triangle.png`
+
+### 第 5 章传播复盘（2026-04-25）
+- X 短推 24h 数据：**631 views · 0.32% 互动率**（vs Ch4 的 2.75%）
+- 失败原因：hook 不够反直觉 + 推文超 280 字符被 Show more 截断 + 双图信息过载
+- 学到的教训写进 part2-practice/ch05 反思区
+
+---
+
 ## 2026-04-24 · v0.3
 
 ### 新增

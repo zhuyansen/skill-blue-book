@@ -13,7 +13,7 @@
 [![AgentSkillsHub](https://img.shields.io/badge/Powered%20by-AgentSkillsHub-10b981?style=flat-square)](https://agentskillshub.top)
 [![Follow](https://img.shields.io/twitter/follow/GoSailGlobal?style=flat-square&label=Follow%20%40GoSailGlobal)](https://x.com/GoSailGlobal)
 
-**[🌐 网站](https://agentskillshub.top)** · **[📖 Ch.3 市场全景](part1-foundation/ch03-market-landscape.md)** · **[📖 Ch.4 宝玉四条哲学](part2-practice/ch04-baoyu-four-principles.md)** · **[📖 Ch.5 迭代闭环](part2-practice/ch05-iteration-loop.md)** · **[🐦 作者 X](https://x.com/GoSailGlobal)** · **[🔍 数据可复现](data/)**
+**[🌐 网站](https://agentskillshub.top)** · **[📖 Ch.3 市场全景](part1-foundation/ch03-market-landscape.md)** · **[📖 Ch.4 宝玉四条哲学](part2-practice/ch04-baoyu-four-principles.md)** · **[📖 Ch.5 迭代闭环](part2-practice/ch05-iteration-loop.md)** · **[📖 Ch.9 Distribution 第四条边](part3-ecosystem/ch09-distribution-fourth-edge.md)** · **[🐦 作者 X](https://x.com/GoSailGlobal)** · **[🔍 数据可复现](data/)**
 
 </div>
 
@@ -62,11 +62,11 @@
 
 ### Part 3 · 生态：Skill 正在吞噬一切
 
-| # | 章节 | 状态 |
-|--:|:----|:----:|
-| 7 | 四大框架的对标与选择 | 🔲 |
-| 8 | Skill 正在吞噬其他柱子 | 🔲 |
-| 9 | Distribution：商业化三角少的那条边 | 🔲 |
+| # | 章节 | 状态 | 字数 |
+|--:|:----|:----:|----:|
+| 7 | 四大框架的对标与选择 | 🔲 | - |
+| 8 | Skill 正在吞噬其他柱子 | 🔲 | - |
+| 9 | [**Distribution：商业化三角少的那条边**](part3-ecosystem/ch09-distribution-fourth-edge.md) ⭐ | ✅ **完稿** | **7,000** |
 
 ### Part 4 · 实践：AgentSkillsHub 运营手记
 
