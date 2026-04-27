@@ -63,13 +63,14 @@
 
 ---
 
-### 第 6 章 · 9 种 Skill 类型 × 4 级分享路径
+### 第 6 章 · 9 种 Skill 类型 × 4 级分享路径 ✅
 
-**核心**：9 种 skill 类型（库参考、数据获取、scaffolding、CI/CD 等）+ 4 级分享（个人、项目、团队、全球）。承接 agent-skill-ecosystem-landscape 文章。
+**状态**：已完稿（~6,500 字 + 2 张 matplotlib 图）
 
-**独特角度**：每类 Skill 在 Hub 里的真实分布——mcp-server 38.8%、agent-tool 26%、claude-skill 15.4%、uncategorized 9.8%——以及各类的平均 stars 和死亡率。
-
-**字数估算**：5,500-6,500 字 + 分类分布对比表。
+核心数字（2026-04-23 快照）：
+- mcp-server 37.3% / agent-tool 26.1% / claude-skill 15.9% / codex-skill 8.8%
+- 9 种功能类型只有 3 种推荐新作者长期投入（Reference / CI-CD / Code Quality）
+- 4 级分享路径里 Hub 只能看到第 4 级（Global），Project + Team 是数据盲区
 
 ---
 
@@ -110,16 +111,15 @@
 
 ## Part 4｜实践：AgentSkillsHub 运营手记
 
-### 第 10 章 · Verified Creator：不是花钱买的认证
+### 第 10 章 · Verified Creator：不是花钱买的认证 ✅
 
-**核心**：Verified Creator 程序的设计思路。为什么不是花 999 元买徽章，而是要按迭代频率 + 质量分 + 社区反馈评估。
+**状态**：已完稿（~6,500 字 + 评估公式 + 完整申请表模板）
 
-**独特角度**：
-- **首批 Founding Members 的完整招募过程**（在第 3 章提到的"漏洞 4"后续）
-- Trending 加权逻辑的具体公式（是否真能检测到"持续迭代")
-- 透明公开：Q2 招募数量、审核通过率、续费率
-
-**字数估算**：5,500-6,500 字 + 评估公式 + 完整申请表模板。
+核心：
+- 三段历史含 Founding Members 翻车的完整复盘
+- verified_score = 0.40 × iteration + 0.40 × quality + 0.20 × community（公开公式）
+- Q2 通过率公开承诺 15-25%
+- 5 条撤销条件 + 4 条「我不会做的事」明示
 
 ---
 
