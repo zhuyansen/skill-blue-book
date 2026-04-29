@@ -5,3 +5,7 @@ __pycache__/
 .env.local
 node_modules/
 *.log
+
+# PDF builds — releases only, not in git
+skill-blue-book-2026-v1.0.pdf
+_book.html
